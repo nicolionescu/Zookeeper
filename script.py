@@ -1,4 +1,4 @@
-amel = r"""
+camel = r"""
 Switching on camera from habitat with camels...
  ___.-''''-.
 /___  @    |
